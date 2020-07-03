@@ -22,7 +22,7 @@ const Login = () => {
         sm={4}
         direction="column"
         alignItems="center"
-        justifyContent="center"
+        justify="center"
         className={classes.formContainer}
       >
         <Typography variant="h3">Hello</Typography>
